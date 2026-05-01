@@ -25,3 +25,5 @@ TimeSync.exe --retry 3 --ntp-server ntp.example.com
 ## 开发周期
 
 从创建项目开始，整个项目的开发仅用了 **一个小时** 左右
+
+并且，Git仓库也仅有 **一个分支，两个提交**
